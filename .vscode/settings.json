@@ -47,6 +47,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "bit": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "map": "cpp",
+        "iostream": "cpp"
     }
 }
